@@ -1,5 +1,7 @@
 # WorldCup (SS 26)
 
+## References 
+* **Gemini.** "Kotlin Documentation" *Version 3 Flash*, Google, 3 May 2026, [gemini.google.com](https://gemini.google.com).
 ## Prerequisites
 
 * Install the [Oracle JDK 25](https://www.oracle.com/java/technologies/downloads/#java25) and [Gradle 9.2.1](https://gradle.org/releases/#9.2.1).
